@@ -10,7 +10,7 @@ Uma aplicação simples construída com Node.js e Express, empacotada em um cont
 
 ### 1. **Clonar o repositório**
    Primeiro, clone o repositório: <br>
-   git clone <URL_DO_REPOSITORIO> <br>
+   git clone https://github.com/joaovitor73/aplicacao_web_container.git <br>
    cd aplicacao_web_container 
 
 ### 2. **Construir a imagem Docker**
